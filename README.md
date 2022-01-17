@@ -1,8 +1,7 @@
 ### Olá! Eu sou Aevilés Aguiar 👋
 
 
-- 🔭 Eu estou trabalhando/aprendendo Java 
-- 🌱 Eu estou aprendendo Java, eu quero ser uma back-end
+- 🔭 Eu estou trabalhando e aprendendo Java 
 - 💬 Contate-me no e-mail: aeviles@hotmail.com
 - 😄 Pronomes: ela/dela
 
